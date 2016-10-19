@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476863068 source:d:\reyhan\asistensi\practicematrices\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
